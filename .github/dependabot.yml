@@ -112,4 +112,4 @@ updates:
         applies-to: version-updates
         patterns:
           - "*"
-          - "*"
+          - "*" 
